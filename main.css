@@ -1,0 +1,145 @@
+body{
+
+padding: 50px;
+background-color: #ebe8e7
+    
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+li{
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+h1{
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+.head {
+    height: 500px;
+   
+    background-color: #f2c76e;
+    
+    
+}
+
+.head h1{
+    margin:30px;
+}
+
+.head p{
+    margin: 30px;
+    font-size: 20px;
+}
+
+.head img{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 500px;
+    margin-right: 40px;
+    float: right;
+    border-radius: 50px;
+}
+
+.profile{
+   display: flex;
+    margin: 50px 50px;
+    margin-left: 50px;
+    padding: 20px;
+    color: #7b3bd3;
+   
+   
+}
+
+.profile img{
+   height:300px;
+   margin-left: 90px;
+   border-radius: 60px;
+}
+
+.profile p{
+    margin: 40px;
+    text-align: center;
+}
+
+
+.edu6{
+   
+    height: 500px;
+    margin-top: 40px;
+    padding: 40px;
+    background-color: #ea7186;
+    color: cornsilk;
+    font-size: 20px;
+}
+
+
+.edu6 img{
+    height: 300px;
+    width: 300px;
+    float: right;
+    padding: 10px;
+    margin-top: 0;
+    
+}
+
+
+.skills {
+ 
+  margin-top: 150px;
+  color: #ea7186;
+
+}
+
+.skills h1{
+    text-align: center;
+    background-color: #7b3bd3;
+    color: beige;
+}
+
+.skills ul{
+    display: flex;
+    text-align: center;
+}
+
+.skills li{
+    margin: 30px;
+    color:#d32643;
+    
+
+}
+
+.skills img{
+    height: 500px;
+    margin: 50px 250px 50px ;
+    border-radius: 60px;
+   
+
+    
+}
+
+
+.contact img{
+    height: 400px;
+    width: 300px;
+    border-radius: 50px;
+  
+}
+
+.contact{
+    text-align: center;
+    background-color: #7A77B9;
+    padding: 0;
+    color: beige;
+}
+
+.contact ul{
+    display: flex;
+    margin-left: 40px;
+}
+
+.contact li{
+    margin: 60px;
+}
